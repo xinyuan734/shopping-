@@ -1,24 +1,9 @@
-# shopping_project
-
-## Project setup
+## 项目运行
 ``` 
-npm install
+git clone https://github.com/xinyuan734/shopping-.git
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+##项目部分预览截图
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
