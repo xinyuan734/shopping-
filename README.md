@@ -8,5 +8,7 @@ git clone https://github.com/xinyuan734/shopping-.git
 npm run serve
 ```
 ## 项目界面截图
+<img src="https://github.com/xinyuan734/shopping-/blob/main/images/account.png" width="350px">
+
 
 
