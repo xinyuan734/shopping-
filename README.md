@@ -7,8 +7,7 @@ git clone https://github.com/xinyuan734/shopping-.git
 ```
 npm run serve
 ```
-## 项目界面截图
-<img src="https://github.com/xinyuan734/shopping-/blob/main/images/account.png" width="350px">
+在images文件夹中存储了项目运行的一些截图
 
 
 
